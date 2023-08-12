@@ -6,3 +6,5 @@
 ## :hammer:Funcionalidades del proyecto
 
 - `Funcionalidad 1`: Conversor de monedas `Funcionalidad 2`: Conversor de temperaturas
+
+<em> # Descripción del proyecto </em>
