@@ -8,3 +8,5 @@
 - `Funcionalidad 1`: Conversor de monedas `Funcionalidad 2`: Conversor de temperaturas
 
 <em> # Descripción del proyecto </em>
+
+El conversor del challenge de ONE G5 nos permite realizar la conversión de varios tipos de moneda y de medidas de temperatura, permite interactuar con el usuario para que ingrese la cantidad a convertir y arroja un mensaje con el resultado final.
