@@ -4,4 +4,4 @@ Challenge conversor G5 ONE
 
 ## :hammer:Funcionalidades del proyecto
 
-- `Funcionalidad 1`: Conversor de monedas 1- `Funcionalidad 2`: Conversor de temperaturas 2
+- `Funcionalidad 1`: Conversor de monedas - `Funcionalidad 2`: Conversor de temperaturas
